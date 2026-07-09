@@ -4,5 +4,31 @@
 }
 
 body {
-    
+    background-color: #FFF9FE;
+}
+
+header {
+    width: 100%;
+
+    background-color: #FFADDB;
+}
+
+h1 {
+    color: #790F4B;
+}
+
+h2 {
+    color: #B00C69
+}
+
+a {
+    background-color: #790F4B;
+    color: #FFC0E4;
+
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FFF9FE;
+    background-color: #B00C69;
 }

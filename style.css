@@ -7,10 +7,19 @@ body {
     background-color: #FFF9FE;
 }
 
+section {
+    width: 1200px;
+    margin: auto;
+}
+
 header {
     width: 100%;
 
     background-color: #FFADDB;
+}
+
+img {
+    width: 500px;
 }
 
 h1 {

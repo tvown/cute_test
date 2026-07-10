@@ -5,6 +5,7 @@
 
 body {
     background-color: #FFF9FE;
+    text-align: center;
 }
 
 section {
@@ -19,7 +20,11 @@ header {
 }
 
 img {
-    width: 500px;
+    width: 1000px;
+}
+
+.card {
+    margin: 50px auto;
 }
 
 h1 {

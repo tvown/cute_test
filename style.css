@@ -20,11 +20,17 @@ header {
 }
 
 img {
-    width: 1000px;
+    margin: auto;
+    width: 500px;
+    margin-top: 20px;
 }
 
 .card {
     margin: 50px auto;
+}
+
+.coolTest {
+    display: grid;
 }
 
 h1 {
@@ -40,9 +46,27 @@ a {
     color: #FFC0E4;
 
     text-decoration: none;
+
+    margin: auto;
+    padding: 20px 70px;
+    align-items: center;
+
+    text-align: center;
+    font-size: 25px; 
 }
 
 a:hover {
     color: #FFF9FE;
     background-color: #B00C69;
+}
+
+#imgCat {
+    margin-bottom: 30px;
+    
+}
+
+.answer {
+    display: flex;
+    margin: auto;
+    width: 500px;
 }
